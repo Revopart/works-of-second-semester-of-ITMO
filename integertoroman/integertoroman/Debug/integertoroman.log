@@ -1,0 +1,3 @@
+﻿  integertoroman.cpp
+C:\Users\HP-0\source\repos\integertoroman\integertoroman\integertoroman.cpp(14,27): warning C4018: <: несоответствие типов со знаком и без знака
+  integertoroman.vcxproj -> C:\Users\HP-0\source\repos\integertoroman\Debug\integertoroman.exe

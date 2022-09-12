@@ -1,0 +1,8 @@
+﻿  huff.cpp
+C:\Users\HP-0\source\repos\huff\huff\huff.cpp(22,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP-0\source\repos\huff\huff\huff.cpp(32,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP-0\source\repos\huff\huff\huff.cpp(34,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP-0\source\repos\huff\huff\huff.cpp(89,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP-0\source\repos\huff\huff\huff.cpp(93,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP-0\source\repos\huff\huff\huff.cpp(94,21): warning C4018: <: несоответствие типов со знаком и без знака
+  huff.vcxproj -> C:\Users\HP-0\source\repos\huff\Debug\huff.exe
